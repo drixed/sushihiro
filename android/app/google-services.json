@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531787550679",
+    "firebase_url": "https://sushi-hiro-74c51.firebaseio.com",
+    "project_id": "sushi-hiro-74c51",
+    "storage_bucket": "sushi-hiro-74c51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531787550679:android:700b295faea2dd11744592",
+        "android_client_info": {
+          "package_name": "com.sushihiro.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531787550679-vavr12caop93ro4gskq7jh267a3hq2i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3V-g6--jPSMZwrbtrdq1iIttes5LkFxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531787550679-vavr12caop93ro4gskq7jh267a3hq2i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
